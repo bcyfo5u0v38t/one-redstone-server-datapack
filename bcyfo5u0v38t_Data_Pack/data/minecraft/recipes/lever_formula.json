@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " / ",
+    " C ",
+    "   "
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "C": [
+      {
+        "item": "minecraft:cobbled_deepslate"
+      },
+      {
+        "item": "minecraft:blackstone"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:lever",
+    "count": 1
+  }
+}
