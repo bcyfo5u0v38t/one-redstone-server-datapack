@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#SG",
+    "GGG"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gravel"
+    },
+    "S": [
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "minecraft:honey_bottle"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:red_sand"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:clay",
+    "count": 8
+  }
+}
