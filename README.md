@@ -8,6 +8,12 @@
 皮革/兔子皮  
 ![马铠](Recipe_picture/Items_are_regeneratible/horse_armor.png)  
 钻石/金锭/铁锭/皮革  
+![远古残骸](Recipe_picture/Items_are_regeneratible/ancient_debris.png)  
+![远古残骸](Recipe_picture/Items_are_regeneratible/ancient_debris2.png)  
+![下界金矿石](Recipe_picture/Items_are_regeneratible/nether_gold_ore.png)  
+![下界石英矿石](Recipe_picture/Items_are_regeneratible/nether_quartz_ore.png)  
+![绿宝石矿石](Recipe_picture/Items_are_regeneratible/emerald_ore.png)  
+![深层绿宝石矿石](Recipe_picture/Items_are_regeneratible/deepslate_emerald_ore.png)  
 ![深板岩圆石](Recipe_picture/Items_are_regeneratible/cobbled_deepslate.png)  
 ![蜘蛛网](Recipe_picture/Items_are_regeneratible/cobweb.png)  
 ![鞘翅](Recipe_picture/Items_are_regeneratible/elytra.png)  
