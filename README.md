@@ -42,7 +42,8 @@
 ![龙息](Recipe_picture/Items_are_regeneratible/dragon_breath.png)  
 ![龙头](Recipe_picture/Items_are_regeneratible/dragon_head.png)  
 ![枯木](Recipe_picture/Items_are_regeneratible/dead_bush.png)
-***
+
+---
 
 ## 增加物品配方:
 
@@ -103,3 +104,4 @@
 陶瓦  
 羊毛  
 蜡烛  
+混凝土粉末
