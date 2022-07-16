@@ -38,7 +38,6 @@
 ![附魔金苹果](Recipe_picture/Items_are_regeneratible/enchanted_golden_apple.png)  
 ![海洋之心](Recipe_picture/Items_are_regeneratible/heart_of_the_sea.png)  
 ![强化深板岩](Recipe_picture/Items_are_regeneratible/reinforced_deepslate.png)  
-![幽匿感测体](Recipe_picture/Items_are_regeneratible/sculk_sensor.png)  
 ![龙息](Recipe_picture/Items_are_regeneratible/dragon_breath.png)  
 ![龙头](Recipe_picture/Items_are_regeneratible/dragon_head.png)  
 ![枯木](Recipe_picture/Items_are_regeneratible/dead_bush.png)
